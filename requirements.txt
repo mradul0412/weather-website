@@ -1,0 +1,2 @@
+# No Python dependencies needed for static files
+# This file is required for Google App Engine 
